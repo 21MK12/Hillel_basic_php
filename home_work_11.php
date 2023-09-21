@@ -10,4 +10,5 @@ function fibonacci($n) {
         $b = $r;
         echo $r.' ';
     }
+
 }
